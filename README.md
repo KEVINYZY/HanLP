@@ -1,4 +1,4 @@
-HanLP: Han Language Processing
+zdHanLP: Han Language Processing
 =====
 
 汉语言处理包
